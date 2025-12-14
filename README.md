@@ -1,6 +1,5 @@
-## Hi there 👋
-# 💫 About Me:
-🌸Hey there, I’m so glad you’re here!<br>Welcome to my little corner of GitHub!<br>I’m passionate about growing in my career, picking up new tech skills, and have a lot of fun! Here, you'll find:<br><br>🛠️ Projects I’m building or contributing to<br>📚 Things I’ve learned or currently learning<br>🌱 Bits of inspiration for anyone trying to learn new skills<br><br>Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out you’re in the right place! 🫶<br><br>Let’s connect, learn, and grow together! one repo at a time.💻
+# 💫 Hey there, I’m so glad you’re here!
+Welcome to my little corner of GitHub!<br>I’m passionate about growing in my career, picking up new tech skills, and have a lot of fun! Here, you'll find:<br><br>🛠️ Projects I’m building or contributing to<br>📚 Things I’ve learned or currently learning<br>🌱 Bits of inspiration for anyone trying to learn new skills<br><br>Whether you're here to find useful code, get inspired, or just see how someone else is figuring it all out you’re in the right place! 🫶<br><br>Let’s connect, learn, and grow together! one repo at a time.💻
 
 
 ## 🌐 Socials:
